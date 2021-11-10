@@ -105,9 +105,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-![GitHub](https://img.shields.io/badge/Maestone-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://github.com/Project-Maestone/Maestone-Emulator)
 
-![Discord](https://img.shields.io/badge/%3CProjectMaestone%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://discord.gg/FXspSzfee4)
 
 :globe_with_meridians: - [@Website](https://project-maestone.info)
 
