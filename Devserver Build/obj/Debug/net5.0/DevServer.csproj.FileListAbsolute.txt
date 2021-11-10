@@ -1,0 +1,16 @@
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\bin\Debug\net5.0\DevServer.exe
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\bin\Debug\net5.0\DevServer.deps.json
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\bin\Debug\net5.0\DevServer.runtimeconfig.json
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\bin\Debug\net5.0\DevServer.runtimeconfig.dev.json
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\bin\Debug\net5.0\DevServer.dll
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\bin\Debug\net5.0\ref\DevServer.dll
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\bin\Debug\net5.0\DevServer.pdb
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\obj\Debug\net5.0\DevServer.csproj.AssemblyReference.cache
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\obj\Debug\net5.0\DevServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\obj\Debug\net5.0\DevServer.AssemblyInfoInputs.cache
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\obj\Debug\net5.0\DevServer.AssemblyInfo.cs
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\obj\Debug\net5.0\DevServer.csproj.CoreCompileInputs.cache
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\obj\Debug\net5.0\DevServer.dll
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\obj\Debug\net5.0\ref\DevServer.dll
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\obj\Debug\net5.0\DevServer.pdb
+C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\obj\Debug\net5.0\DevServer.genruntimeconfig.cache

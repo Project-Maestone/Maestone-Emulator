@@ -1,0 +1,10 @@
+.cfx	(3dscfx)	3Point Shader
+.dds	(dds)		Direct Draw Surface 			(Image)
+.epa	(epa)		Environment Platform Assembly		(Terrain)
+.ezo	(ezo)		Environment Zone Object			(Sky Box)
+.maf	(maf)		Maestia Animation File
+.mbf	(mbf)		Maestia Bone File
+.mmf	(mmf)		Maestia Model File
+.mvd	(mvd)		Maestia Virtual Disk
+.psb	(psb)		? ? ?					(Light Map/Settings???)
+.gbd			Game Base Data

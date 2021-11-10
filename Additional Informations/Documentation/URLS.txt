@@ -1,0 +1,10 @@
+127.0.0.1 maestiafiles.l3.cdn.bigpoint.net
+127.0.0.1 burda.cdnetworks.net
+127.0.0.1 maestia.alaplaya.net
+127.0.0.1 maestia.en.alaplaya.net
+127.0.0.1 burda.cdnetworks.net
+127.0.0.1 maestia.patch.aeriagames.com
+127.0.0.1 maestia.aeriagames.com
+127.0.0.1 fr.maestia.aeriagames.com
+127.0.0.1 de.maestia.aeriagames.com
+127.0.0.1 maestia.com

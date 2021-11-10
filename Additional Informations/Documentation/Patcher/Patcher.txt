@@ -1,0 +1,16 @@
+1) First patcher checks if remote server is available.
+2) Then it downloads two file from this patch <remote iP>/burda/MAE/maestia_files/release/patch
+
+The first file being _MthInf.mvd
+This file contains the names and MD5 hash values of all game related files excluding mvd archives.
+If they mismatch, game will attempt to redownload the right ones
+
+The second file being PatchInf.mvd
+This file contains the names and MD5 hash values of game asset files inside mvd archive files.
+If they mismatch, game will attempt to redownload the right ones
+
+4) Once everything is done, game starts
+
+
+
+The extracted binary file from PatchInf.mvd is just a zip file.

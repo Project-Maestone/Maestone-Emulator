@@ -1,0 +1,52 @@
+\SfBaseCtrl.cpp[ERROR] %s %d
+.\SfBaseCtrl.cpp[ERROR] %s %d
+GbdVersion.txtGbdVersion.txt%s%sr%s 		%I64drbGBD engine is invalid version [ Engine Version=0x%08x ][ File Version=0x%08x ]
+
+You must update three projects ( AvNet, JlUtil, AvBaseData ) 
+in Avatars Server source from visual source safe
+
+OR
+
+You must download three files ( GbdVersion.txt, mytholoy.gbd, mytholoy_debug.gbd )
+From \192.168.10.6\TS Project Team\Share Program\GBD 
+Engine version Mismatchmythology.gbdGbdVersion.txt[ %s's	Version		( %d year, %d month %d day (%dth), %dh:%dm:%ds )
+[ %s Created Version	( %d year, %d month %d day (%dth), %dh:%dm:%ds )
+
+You must download three files ( GbdVersion.txt, mytholoy.gbd, mytholoy_debug.gbd )
+From \192.168.10.6\TS Project Team\Share Program\GBD 
+File version MismatchGBD engine version mismatchGBD file is invalid.\SfBaseCtrl.cpp[GBD] GBD file is invalid, GBD engine version mismatchrb[GBD][Reload] load_data failed from file %s
+[GBD][RELOAD] GBD engine is invalid version [ Engine Version=0x%08x ][ File Version=0x%08x ]
+
+[GBD] GBD file is invalid, GBD engine version mismatch[GBD][Reload] Reloaded
+mythology.gbd%s%sGbdVersion.txt%s%swbCannot open file [%s]!Errorwmythology.gbd%s 		%I64d %d,%d-%d,%d:%d:%d
+GBD Engine Version - %s ( 0x%08x )
+
+
+[ERROR][SfBDHandle::DelLinkData] cannot find link
+
+
+TTYPE (%d, %d) not existTTYPE (%d, %d) not existTABLE INFO COUNT(%d) != TABLE COUNT(%d), or exist no-data sheetMythology.gbd Version : %04d/%02d/%02d,%02d:%02d:%02d
+
+[ERROR] table %d index %d link index %d 2
+
+
+
+
+
+
+Please Check installed path.Loading GBD...FailedMultiByteToWideCharAvaGame::InitGBDMultiByteToWideCharAvaGame::InitGBDSuccess to load GBDTABLE_ITEM_BASE_DATA----------------------------%S----------------------------
+[NotTrans][%d] '%S' not translated
+TABLE_ITEM_BASE_DATA
+TABLE_SKILL_BASE_DATA
+TABLE_ZONE_NPCSET_DATA
+TABLE_CHAR_BASE_DATA
+TABLE_STATUS_DATA
+TABLE_GUILD_CLASS_DATA
+TABLE_MOTION_BASE_DATA
+TABLE_HONOR_BASE_DATA
+TABLE_CLASS_BASE_DATA
+TABLE_CATEGORY_BASE_DATA
+TABLE_CASTLE_BASE_DATA
+
+
+MultiByteToWideChar
