@@ -109,9 +109,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ![Discord](https://discord.gg/FXspSzfee4)
 
-:globe_with_meridians: - [Website](https://project-maestone.info)
+![Website](https://project-maestone.info)
 
-:mailbox: <info@project-maestone.info>
+![eMail](info@project-maestone.info)
 
 
 :small_red_triangle_down:All necessary information can be found in our doc or in the files, but if you have any questions, please feel free to contact us on our discordserver.:small_red_triangle_down:
