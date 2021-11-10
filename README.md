@@ -111,7 +111,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ![Website](https://project-maestone.info)
 
-![eMail]<info@project-maestone.info>
+<info@project-maestone.info>
 
 
 :small_red_triangle_down:All necessary information can be found in our doc or in the files, but if you have any questions, please feel free to contact us on our discordserver.:small_red_triangle_down:
