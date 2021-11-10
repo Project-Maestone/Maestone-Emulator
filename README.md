@@ -109,6 +109,8 @@ Contributions are what make the open source community such an amazing place to b
 
 ![Discord](https://discord.gg/FXspSzfee4)
 
+![Facebook](https://www.facebook.com/proj3ctmaestone)
+
 ![Website](https://project-maestone.info)
 
 <info@project-maestone.info>
