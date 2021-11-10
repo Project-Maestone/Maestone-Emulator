@@ -15,5 +15,10 @@ namespace DevServer.Packets
 
         [MarshalAs(UnmanagedType.ByValArray, SizeConst = 14)]
         public byte[] CharacterKey;
+
+
+        public int UnkownInt;
+
+    
     }
 }

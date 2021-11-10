@@ -49,7 +49,7 @@ namespace DevServer.Network
 
         public void Handle(Client packetSender, byte[] packetData)
         {
-            var packetLength = BitConverter.ToUInt16(packetData, 0);
+            var packetLength = BitConverter.ToUInt16(packetData, 0) & 0x1FFF;
 
             var packetMainId = packetData[2];
             var packetSubId = packetData[3];

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dgw/ox16YnpG0q6B4yFRYu7UYXJ6SjowSpcMWjEDnjzRlJjOlIge7QGYTqeK+770qtm0T58pu0/rw6hPZy+s4A==",
+  "dgSpecHash": "Akd0ENX76/Zi0dcvbBNbvKSC+rsPUT/OiRv4QCGbxuZ6eQU1L8KrbcdJdQ4s20TAjtHWRK/ab93eW77vKYc/WA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hans Wurst\\Desktop\\Maestone\\Maestone\\Devserver Build\\DevServer.csproj",
+  "projectFilePath": "C:\\Users\\Hans Wurst\\Desktop\\DevServer_github\\DevServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

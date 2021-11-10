@@ -7,8 +7,8 @@ namespace DevServer.Packets
     {
         public ushort Length;
 
-        private byte MainId;
-        private byte SubId;
+        public byte MainId; // private
+        public byte SubId;
 
         // Helper property to split the PacketType to the Main/Sub Id.
         protected PacketType Type

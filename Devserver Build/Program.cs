@@ -12,13 +12,38 @@ namespace DevServer
     {
         private static void Main()
         {
-            Console.Title = "Maestia Server Emulator - EDITz";
+            Console.Title = "Project Maestone";
+
+
+
+
+            //ToDO is to change the Charbase data to new one - Check Size here and in Ida Pro .. and see the difference
+            var cUse = new DPKUZ_USER_RS_CHAR_BASE_DATA();
+
+            var size = System.Runtime.InteropServices.Marshal.SizeOf(cUse);
+            var sizename = cUse.GetType().Name;
 
             AppDomain.CurrentDomain.UnhandledException += UnhandledException;
 
-            Log.WriteInfo("Starting Maestia Emulator...");
+              string title = @"
+                               ╔═╗╔═╗              ╔╗             
+                               ║║╚╝║║             ╔╝╚╗            
+                               ║╔╗╔╗║╔══╗ ╔══╗╔══╗╚╗╔╝╔══╗╔═╗ ╔══╗
+                               ║║║║║║╚ ╗║ ║╔╗║║══╣ ║║ ║╔╗║║╔╗╗║╔╗║
+                               ║║║║║║║╚╝╚╗║║═╣╠══║ ║╚╗║╚╝║║║║║║║═╣
+                               ╚╝╚╝╚╝╚═══╝╚══╝╚══╝ ╚═╝╚══╝╚╝╚╝╚══╝                              
+                               copyright by Project-Maestone.info
+            
+                            ";
+
+            Console.WriteLine(title + "\n\n");
+
+            //Log.WriteInfo(title);
+            Log.WriteInfo("Starting Maestone Emulator...");
 
             Log.WriteInfo("Starting servers...");
+
+            Log.WriteWarning("The Size of Packet " + sizename + " is: " + size.ToString() + " Bytes");
 
             var login = new Server(21001, HandlerType.Login);
             var zone = new Server(21002, HandlerType.Zone);

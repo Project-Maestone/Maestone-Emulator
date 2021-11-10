@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hans Wurst\\Desktop\\Maestone\\Maestone\\Devserver Build\\DevServer.csproj": {}
+    "C:\\Users\\Hans Wurst\\Desktop\\DevServer_github\\DevServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hans Wurst\\Desktop\\Maestone\\Maestone\\Devserver Build\\DevServer.csproj": {
+    "C:\\Users\\Hans Wurst\\Desktop\\DevServer_github\\DevServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hans Wurst\\Desktop\\Maestone\\Maestone\\Devserver Build\\DevServer.csproj",
+        "projectUniqueName": "C:\\Users\\Hans Wurst\\Desktop\\DevServer_github\\DevServer.csproj",
         "projectName": "DevServer",
-        "projectPath": "C:\\Users\\Hans Wurst\\Desktop\\Maestone\\Maestone\\Devserver Build\\DevServer.csproj",
+        "projectPath": "C:\\Users\\Hans Wurst\\Desktop\\DevServer_github\\DevServer.csproj",
         "packagesPath": "C:\\Users\\Hans Wurst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hans Wurst\\Desktop\\Maestone\\Maestone\\Devserver Build\\obj\\",
+        "outputPath": "C:\\Users\\Hans Wurst\\Desktop\\DevServer_github\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hans Wurst\\AppData\\Roaming\\NuGet\\NuGet.Config",

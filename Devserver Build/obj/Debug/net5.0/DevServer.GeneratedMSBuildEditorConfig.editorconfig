@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DevServer
-build_property.ProjectDir = C:\Users\Hans Wurst\Desktop\Maestone\Maestone\Devserver Build\
+build_property.ProjectDir = C:\Users\Hans Wurst\Desktop\DevServer_github\

@@ -24,18 +24,18 @@ namespace DevServer.Packets
         // 7 = Male, Cleric
         // 8 = Female, Cleric
 
-        public short Gender_JobId;
-
+          public short Gender_JobId;
+//        public int Gender_Class;
         // Must be 1281
-        public short Unknown = 1281;
+          private short Unknown = 1281;
 
         // 1 = Superion Guardian
         // 2 = Temple Knight
-
-        public short Faction;
+       // public int Faction;
+       public short Faction;
 
         // Must be 4096
-        public short Unknown2 = 4096;
+       private short Unknown2 = 4096;
 
         [MarshalAs(UnmanagedType.ByValTStr, SizeConst = 40)]
         public string Name;

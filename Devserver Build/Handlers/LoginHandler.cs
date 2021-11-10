@@ -19,14 +19,14 @@ namespace DevServer.Handlers
             var heloRsAgree = new DPK_HELO_RS_AGREE
             {
                 ServerType = 0,
-                EngineVersion = 0x07151257,
-                ClientVersion = 0x01020000,
-                ServerVersion = 0x07041700
+                //EngineVersion = 0x07151257,
+                //ClientVersion = 0x01020000,
+                //ServerVersion = 0x07041700
 
-                /* 2015
-                EngineVersion = 0x07151257,
+                //  /* 2015
+                EngineVersion = 0x07151257, // 50594311
                 ClientVersion = 0x01020000,
-                ServerVersion = 0x03040207 */
+                ServerVersion = 0x03040207
             };
 
             packetSender.SendPacket(heloRsAgree);
@@ -69,15 +69,17 @@ namespace DevServer.Handlers
                 decryptedIdPass = rsa.Decrypt(decryptedIdPass, false);
             }
 
-            var id = Encoding.Unicode.GetString(decryptedIdPass, 0, accountRqIdPass.IdLength * 2);
-            var pass = Encoding.Unicode.GetString(decryptedIdPass, accountRqIdPass.IdLength * 2, accountRqIdPass.PassLength * 2);
+            //var id = Encoding.Unicode.GetString(decryptedIdPass, 0, accountRqIdPass.IdLength * 2);
+            //var pass = Encoding.Unicode.GetString(decryptedIdPass, accountRqIdPass.IdLength * 2, accountRqIdPass.PassLength * 2);
 
-            /* 2015
+            //  /* 2015
             var id = Encoding.UTF8.GetString(decryptedIdPass, 0, accountRqIdPass.IdLength);
-            var pass = Encoding.UTF8.GetString(decryptedIdPass, accountRqIdPass.IdLength, accountRqIdPass.PassLength); */
+            var pass = Encoding.UTF8.GetString(decryptedIdPass, accountRqIdPass.IdLength, accountRqIdPass.PassLength);
 
             // Example of rejecting login.
-            if (id != "EDITz" || pass != "EDITz") // 2015 if (id != "authcode" || pass != "EDITz")
+            //if (id != "Maestone" || pass != "Maestone")
+            // 2015
+            if (id != "authcode" || pass != "12345")
             {
                 var accountRsFailed = new DPKUL_ACCOUNT_RS_FAILED
                 {
@@ -99,6 +101,12 @@ namespace DevServer.Handlers
                 return;
 
             packetSender.SendPacket(new DPKUL_ACCOUNT_RS_MACADDRESS());
+        }
+        [Packet(HandlerType.Login, PacketType.DPKUZ_ACCOUNT_RS_MACADDRESS)]
+        public static void DPKUZ_ACCOUNT_RS_MACADDRESS(Packet clientPacket, Client packetSender)
+        {
+            if (!(clientPacket is DPKUZ_ACCOUNT_RS_MACADDRESS accountRqMacAddress))
+                return;
         }
 
         [Packet(HandlerType.Login, PacketType.SPKUL_SERVER_RQ_GETLIST)]

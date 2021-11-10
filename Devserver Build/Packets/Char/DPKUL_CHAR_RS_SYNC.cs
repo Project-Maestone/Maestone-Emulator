@@ -4,18 +4,14 @@ using System.Runtime.InteropServices;
 namespace DevServer.Packets
 {
     [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Unicode, Pack = 1)]
-    public class DPKUL_CHAR_RQ_UNKNOWN : Packet
+    public class DPKUL_CHAR_RS_SYNC : Packet
     {
-        public DPKUL_CHAR_RQ_UNKNOWN()
+        public DPKUL_CHAR_RS_SYNC()
         {
              Length = Convert.ToUInt16(Marshal.SizeOf(this));
 
-            Type = PacketType.DPKUL_CHAR_RQ_UNKNOWN;
+            Type = PacketType.DPKUL_CHAR_RS_SYNC;
         }
-
-        public short UnkShort1;
-        public byte UnkByte;
-        public byte UnkByte1;
 
         public int UnknownInt;
         public int UnknownInt2;
@@ -24,8 +20,5 @@ namespace DevServer.Packets
         public int UnknownInt5;
         public short UnknownShort;
         public byte UnknownByte;
-
-
-     
     }
 }
