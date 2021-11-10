@@ -107,9 +107,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ![GitHub](https://github.com/Project-Maestone/Maestone-Emulator)
 
-Discord: https://discord.gg/FXspSzfee4
+![Discord](https://discord.gg/FXspSzfee4)
 
-:globe_with_meridians: - [@Website](https://project-maestone.info)
+:globe_with_meridians: - [Website](https://project-maestone.info)
 
 :mailbox: <info@project-maestone.info>
 
