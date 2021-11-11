@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hans Wurst\\Desktop\\DevServer_github\\DevServer.csproj": {}
+    "C:\\Users\\Hans Wurst\\Desktop\\project-maestone\\maestone\\Devserver Build\\DevServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hans Wurst\\Desktop\\DevServer_github\\DevServer.csproj": {
+    "C:\\Users\\Hans Wurst\\Desktop\\project-maestone\\maestone\\Devserver Build\\DevServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hans Wurst\\Desktop\\DevServer_github\\DevServer.csproj",
+        "projectUniqueName": "C:\\Users\\Hans Wurst\\Desktop\\project-maestone\\maestone\\Devserver Build\\DevServer.csproj",
         "projectName": "DevServer",
-        "projectPath": "C:\\Users\\Hans Wurst\\Desktop\\DevServer_github\\DevServer.csproj",
+        "projectPath": "C:\\Users\\Hans Wurst\\Desktop\\project-maestone\\maestone\\Devserver Build\\DevServer.csproj",
         "packagesPath": "C:\\Users\\Hans Wurst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hans Wurst\\Desktop\\DevServer_github\\obj\\",
+        "outputPath": "C:\\Users\\Hans Wurst\\Desktop\\project-maestone\\maestone\\Devserver Build\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hans Wurst\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -112,8 +112,8 @@ namespace DevServer.Handlers
             //userRsCharListData.Faction = 268566529;
 
 
-            userRsCharListData.Name = "GM_EDITz2";
-            userRsCharListData.Guild = "HYBR2D";
+            userRsCharListData.Name = "GM_Guenther";
+            userRsCharListData.Guild = "projectmaestone";
             userRsCharListData.Face_TatooId = 151;
             userRsCharListData.HairId = 4;
             userRsCharListData.HairColor = 2296857; //; //2296857; //230C19
