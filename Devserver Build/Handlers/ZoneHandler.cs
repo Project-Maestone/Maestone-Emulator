@@ -171,7 +171,7 @@ namespace DevServer.Handlers
             //userRsCharBaseData.m_nUnknown2 = 0; // 0
             //userRsCharBaseData.Gender_JobId = 8; // 8 short 
             //userRsCharBaseData.Faction = 0; // 1 short  //Skill tree
-            //userRsCharBaseData.Name = "GM_EDITz";
+            //userRsCharBaseData.Name = "GM_Peter";
             //userRsCharBaseData.Face_TatooId = 277; // 234 short
             //userRsCharBaseData.HairId = 6; // 113 short
             //userRsCharBaseData.HairColor = 0x70170d; //3087666 int 
@@ -255,7 +255,7 @@ namespace DevServer.Handlers
             //userRsCharBaseData.m_nUnknown2 = 4096; // 0
             //userRsCharBaseData.Gender_JobId = 8; // 8 short 
             //userRsCharBaseData.Faction = 8; // 1 short 
-            //userRsCharBaseData.Name = "GM_EDITz";
+            //userRsCharBaseData.Name = "GM_Peter";
             //userRsCharBaseData.Face_TatooId = 277; // 234 short
             //userRsCharBaseData.HairId = 6; // 113 short
             //userRsCharBaseData.HairColor = 0x70170d; //3087666 int 
@@ -270,7 +270,7 @@ namespace DevServer.Handlers
             //userRsCharListData.Key = 29748866;
             //userRsCharListData.Gender_JobId = 7;
             //userRsCharListData.Faction = 1;
-            //userRsCharListData.Name = "GM_EDITz";
+            //userRsCharListData.Name = "GM_Peter";
             //userRsCharListData.Guild = "HYBR2D";
             //userRsCharListData.Face_TatooId = 222;
             //userRsCharListData.HairId = 97;
@@ -291,7 +291,7 @@ namespace DevServer.Handlers
             //userRsCharBaseData.m_nUnknown2 = 1; //268435457
             //userRsCharBaseData.m_nUnknown3 = 8; // 83951624; 8
             //userRsCharBaseData.m_nUnknown4 = 8; //268435457; 8
-            //userRsCharBaseData.m_strUnknown = "GM_EDITz";
+            //userRsCharBaseData.m_strUnknown = "GM_Peter";
             //userRsCharBaseData.m_nUnknown5 = 277; //277
             //userRsCharBaseData.m_nUnknown6 = 6;
             //userRsCharBaseData.m_nUnknown7 = 0x70170d;
@@ -307,7 +307,7 @@ namespace DevServer.Handlers
             userRsCharBaseData.m_nUnknown2 = 22700; //268435457                        66817 Int 1 oder 83951617  oder 69632 oder  
             userRsCharBaseData.m_nUnknown3 = 83951618; // 83951624; 8            1            135168    Int 2  oder 268435458        mit faction id : 132353 oder 83951618
             userRsCharBaseData.m_nUnknown4 = 268566529; //268435457; 81
-            userRsCharBaseData.m_strUnknown = "GM_EDITz2";
+            userRsCharBaseData.m_strUnknown = "GM_Peter";
             userRsCharBaseData.m_nUnknown5 = 151; //277
             userRsCharBaseData.m_nUnknown6 = 4;
             userRsCharBaseData.m_nUnknown7 = 2296857;
