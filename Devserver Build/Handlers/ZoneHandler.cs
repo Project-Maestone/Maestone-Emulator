@@ -85,8 +85,8 @@ namespace DevServer.Handlers
             userRsCharListData.Key = 29748865;
             userRsCharListData.Gender_JobId = 8;
             userRsCharListData.Faction = 1;
-            userRsCharListData.Name = "GM_EDITz";
-            userRsCharListData.Guild = "HYBR2D";
+            userRsCharListData.Name = "GM_Peter";
+            userRsCharListData.Guild = "projectmaestone";
             userRsCharListData.Face_TatooId = 277;
             userRsCharListData.HairId = 6;
             userRsCharListData.HairColor = 0x70170d;
