@@ -68,3 +68,22 @@
 // 50397397 = Zone XXXX - Lirenzeschlucht 3
 // 50397398 = Zone XXXX - Lirenzeschlucht 4
 // 50397399 = Zone XXXX - Lirenzeschlucht 5
+// 50397445 = Zone XXXX - Golem Fehde 7
+// 50397448 = Zone XXXX - Golem Fehde 10
+// 50397447 = Zone XXXX - Golem Fehde 9
+// 50397446 = Zone XXXX - Golem Fehde 8
+// 50397444 = Zone XXXX - Golem Fehde 6
+// 50397443 = Zone XXXX - Gefechtsarena(Vulkan)10
+// 50397442 = Zone XXXX - Gefechtsarena(Vulkan)9
+// 50397441 = Zone XXXX - Gefechtsarena(Vulkan)8
+// 50397440 = Zone XXXX - Gefechtsarena(Vulkan)7
+// 50397439 = Zone XXXX - Gefechtsarena(Vulkan)6
+// 50397438 = Zone XXXX - Heldenarena 10
+// 50397437 = Zone XXXX - Heldenarena 9
+// 50397436 = Zone XXXX - Heldenarena 8
+// 50397435 = Zone XXXX - Heldenarena 7
+// 50397434 = Zone XXXX - Heldenarena 6
+
+
+
+
